@@ -15,3 +15,6 @@ This extension has two main components:
 - UI for finding citations from a Zotero library and inserting them into Markdown cells.
   The citations are stored in the notebook metadata, and referenced by an ID.
 - Code to run [citeproc-js](https://bitbucket.org/fbennett/citeproc-js/wiki/Home) when a Markdown cell is rendered, rendering both bibliographies and inline citations.
+
+To make your zotero library viewable:
+ - navigate to [privacy settings](https://www.zotero.org/settings/privacy) and tick 'Publish entire library'
